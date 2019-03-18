@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Apoorvas-MacBook-Air'
+  vmImage: 'macOS'
 
 steps:
 - task: Maven@3
